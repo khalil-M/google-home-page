@@ -1,0 +1,40 @@
+body {
+  width: 100%;
+  margin: -4px;
+}
+div {
+  display: block;
+}
+nav {
+  display: block;
+}
+.topbar{
+  padding-top: 20px;
+}
+.topbar a{
+  color: rgba(0, 0, 0, 0.74);
+  padding-right: 15px;
+  margin: auto;
+}
+.top-left{
+  float: left;
+  margin-left: 27px;
+}
+.top-right{
+  float: right;
+  margin-right: 27px;
+}
+.nav-items{
+    display: inline-block;
+    text-align: center;
+    font-size: 13px;
+    text-decoration: none;
+    line-height: 30px;
+}
+.logo{
+  padding-top: 140px;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  margin: auto;
+  width: 50%;
+}
